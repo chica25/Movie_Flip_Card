@@ -21,6 +21,7 @@ body {
     margin: 100px auto 0;
     width: 400px;
     height: 600px;
+    perspective: 800px;
 }
 
 .card_inner {
